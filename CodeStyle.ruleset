@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="ManagerToolbelt Code Style Rules" Description="Code style rules for ManagerToolbelt solution">
+  <!-- Naming Rules -->
+  <Rule Id="IDE0001" Action="Warning" />
+  <Rule Id="IDE0002" Action="Warning" />
+  <Rule Id="IDE0003" Action="Warning" />
+  <Rule Id="IDE0004" Action="Warning" />
+  <Rule Id="IDE0005" Action="Warning" />
+  <Rule Id="IDE0006" Action="Warning" />
+  <Rule Id="IDE0007" Action="Warning" />
+  <Rule Id="IDE0008" Action="Warning" />
+  <Rule Id="IDE0009" Action="Warning" />
+
+  <!-- Layout and Formatting -->
+  <Rule Id="IDE0011" Action="Warning" />
+  <Rule Id="IDE0012" Action="Warning" />
+  <Rule Id="IDE0013" Action="Warning" />
+  <Rule Id="IDE0014" Action="Warning" />
+  <Rule Id="IDE0015" Action="Warning" />
+  <Rule Id="IDE0016" Action="Warning" />
+  <Rule Id="IDE0017" Action="Warning" />
+  <Rule Id="IDE0018" Action="Warning" />
+  <Rule Id="IDE0019" Action="Warning" />
+
+  <!-- Performance -->
+  <Rule Id="IDE0021" Action="Warning" />
+  <Rule Id="IDE0022" Action="Warning" />
+  <Rule Id="IDE0023" Action="Warning" />
+  <Rule Id="IDE0024" Action="Warning" />
+  <Rule Id="IDE0025" Action="Warning" />
+  <Rule Id="IDE0026" Action="Warning" />
+  <Rule Id="IDE0027" Action="Warning" />
+  <Rule Id="IDE0028" Action="Warning" />
+
+  <!-- Maintainability -->
+  <Rule Id="IDE0031" Action="Warning" />
+  <Rule Id="IDE0032" Action="Warning" />
+  <Rule Id="IDE0033" Action="Warning" />
+  <Rule Id="IDE0034" Action="Warning" />
+  <Rule Id="IDE0035" Action="Warning" />
+  <Rule Id="IDE0036" Action="Warning" />
+  <Rule Id="IDE0037" Action="Warning" />
+  <Rule Id="IDE0038" Action="Warning" />
+
+  <!-- Usage -->
+  <Rule Id="IDE0041" Action="Warning" />
+  <Rule Id="IDE0042" Action="Warning" />
+  <Rule Id="IDE0043" Action="Warning" />
+  <Rule Id="IDE0044" Action="Warning" />
+  <Rule Id="IDE0045" Action="Warning" />
+  <Rule Id="IDE0046" Action="Warning" />
+  <Rule Id="IDE0047" Action="Warning" />
+  <Rule Id="IDE0048" Action="Warning" />
+
+  <!-- Design -->
+  <Rule Id="IDE0051" Action="Warning" />
+  <Rule Id="IDE0052" Action="Warning" />
+  <Rule Id="IDE0053" Action="Warning" />
+  <Rule Id="IDE0054" Action="Warning" />
+  <Rule Id="IDE0055" Action="Warning" />
+  <Rule Id="IDE0056" Action="Warning" />
+  <Rule Id="IDE0057" Action="Warning" />
+  <Rule Id="IDE0058" Action="Warning" />
+
+  <!-- Global Suppressions -->
+  <Rule Id="CS1591" Action="None" />
+  <Rule Id="CS8618" Action="None" />
+  <Rule Id="CS8603" Action="None" />
+</RuleSet>
