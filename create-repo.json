@@ -1,0 +1,6 @@
+{
+  "name": "ManagerToolbelt",
+  "description": "A .NET solution for managing tools and utilities",
+  "private": false,
+  "auto_init": true
+}
